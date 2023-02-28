@@ -1,0 +1,5 @@
+Snooze
+Wake up
+snooze
+Wake up
+cancel
